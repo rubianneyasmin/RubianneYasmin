@@ -1,16 +1,64 @@
-## Hi there 👋
+⭐ Rubianne Yasmin
 
-<!--
-**rubianneyasmin/RubianneYasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+💻 Iniciando minha jornada na programação
+🐍 Estudando **Python** e fundamentos de **Inteligência Artificial**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente estou no **1º semestre de ADS** e construindo minha base em programação e tecnologia.
+
+Neste momento, meu foco está em aprender **Python, lógica de programação e fundamentos de IA**, enquanto desenvolvo meus primeiros projetos e exploro diferentes áreas da tecnologia.
+
+📚 Estou sempre buscando aprender, praticar e evoluir um pouco a cada dia.
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+* 🐍 Python
+* 🤖 Inteligência Artificial
+* 🧠 Lógica de Programação
+* 🔧 Git & GitHub
+
+> Esta seção será atualizada conforme eu aprender novas tecnologias.
+
+---
+
+## 📂 Projetos
+
+🚧 **Em construção...**
+
+Meus primeiros projetos serão adicionados aqui conforme eu avançar nos estudos.
+
+---
+
+## 🎯 Atualmente
+
+* 🎓 Cursando ADS — Cruzeiro do Sul 
+* 📖 Estudando Python
+* 🤖 Explorando Inteligência Artificial
+* 💻 Aprendendo Git e GitHub
+* 🚀 Construindo meus primeiros projetos
+
+---
+
+## 🌱 Objetivos
+
+* [ ] Criar meus primeiros projetos
+* [ ] Desenvolver uma boa base em programação
+* [ ] Aprender mais sobre IA
+* [ ] Construir meu portfólio
+* [ ] Buscar minha primeira oportunidade na área
+
+---
+
+## 📫 Contato
+
+• [E-mail](rubianneyasmin@gmail.com)
+
+---
+
+⭐ *Este perfil acompanha minha evolução na tecnologia. Em breve, novos projetos por aqui!*
