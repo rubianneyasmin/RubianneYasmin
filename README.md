@@ -52,7 +52,7 @@ Meus primeiros projetos serão adicionados aqui conforme eu avançar nos estudos
 * [ ] Aprender mais sobre IA
 * [ ] Construir meu portfólio
 * [ ] Buscar minha primeira oportunidade na área
-
+ 
 ---
 
 ## 📫 Contato
