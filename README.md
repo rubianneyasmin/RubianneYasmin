@@ -31,10 +31,6 @@ Neste momento, meu foco está em aprender **Python, lógica de programação e f
 
 🚧 **Em construção...**
 
-Meus primeiros projetos serão adicionados aqui conforme eu avançar nos estudos.
-
----
-
 ## 🎯 Atualmente
 
 * 🎓 Cursando ADS — Cruzeiro do Sul 
@@ -43,16 +39,6 @@ Meus primeiros projetos serão adicionados aqui conforme eu avançar nos estudos
 * 💻 Aprendendo Git e GitHub
 * 🚀 Construindo meus primeiros projetos
 
----
-
-## 🌱 Objetivos
-
-* [ ] Criar meus primeiros projetos
-* [ ] Desenvolver uma boa base em programação
-* [ ] Aprender mais sobre IA
-* [ ] Construir meu portfólio
-* [ ] Buscar minha primeira oportunidade na área
- 
 ---
 
 ## 📫 Contato
